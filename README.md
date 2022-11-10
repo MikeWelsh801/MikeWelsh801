@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeWelsh801
-- 👀 I’m interested in Basketball, 
+- 👀 I’m interested in Basketball (interest stats analytics, but also just watching games), machine learning, pygame (fun to mess with), and Snowboarding.
 - 🌱 I’m currently learning Probability/Stats, Computer Organization, Software Engineering, Discrete Math
-- 📫 How to reach me mikewelsh801@gmail.com
+- 📫 How to reach me -- mikewelsh801@gmail.com
 
 <!---
 MikeWelsh801/MikeWelsh801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
