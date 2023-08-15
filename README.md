@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeWelsh801
 - 👀 I’m interested in Basketball (I like stats analytics, but also just watching games), machine learning, pygame (fun to mess with), and Snowboarding.
-- 🌱 I’m currently learning Computer Networks, Databases, Computer Security, and Software Engineering II (c++) 
+- 🌱 I’m currently learning Computer Systems, Models of Computation, Intro to Data Analysis, and Senior Capstone Design.
 - 📫 How to reach me -- mikewelsh801@gmail.com
 
 <!---
