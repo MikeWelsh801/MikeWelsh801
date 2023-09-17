@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MikeWelsh801
-- 👀 I’m interested in Basketball (I like stats analytics, but also just watching games), machine learning, pygame (fun to mess with), and Snowboarding.
+- 👋 Hi, I’m @MikeWelsh801. I'm a CS student at the University of Utah.
+- 👀 I’m interested in Computer Security and Networking, code challenges (AoC), machine learning, Basketball (I like stats analytics, but also just watching games), and Snowboarding.
 - 🌱 I’m currently learning Computer Systems, Models of Computation, Intro to Data Analysis, and Senior Capstone Design.
 - 📫 How to reach me -- mikewelsh801@gmail.com
 
