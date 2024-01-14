@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeWelsh801. I'm a CS student at the University of Utah.
 - 👀 I’m interested in Computer Security and Networking, code challenges (AoC), CTF, machine learning, Basketball (I like stats analytics, but also just watching games), and Snowboarding.
-- 🌱 I’m currently learning Computer Systems, Models of Computation, Intro to Data Analysis, and Senior Capstone Design.
+- 🌱 I’m currently learning Algorithms, Operating Systems, Mobile App Programming, and Senior Capstone Project.
 - 📫 How to reach me -- mikewelsh801@gmail.com
 
 <!---
