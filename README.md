@@ -6,7 +6,7 @@
 
 # AvyViz
 
-![Trail Color](Trail_Color.png?raw=true "Activity One")
+<img src="Trail_Color.png" alt="Activity One" width="200"/>
 
 
 <!---
