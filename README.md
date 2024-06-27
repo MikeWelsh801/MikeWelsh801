@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MikeWelsh801. I'm a CS student at the University of Utah.
+- 👋 Hi, I’m @MikeWelsh801.
 - 👀 I’m interested in computer security and networking, code challenges (AoC), CTF, machine learning, basketball (I like stats analytics but also just watching games), and snowboarding.
-- 🌱 I’m currently taking Algorithms, Operating Systems, Mobile App Programming, and Senior Capstone Project.
 - 🏂 Co-creator of the [AvyViz](https://github.com/MikeWelsh801/avyviz) avalanche safety app. Avyviz provides offline trail creation for downloaded maps with color coded trail danger based on Utah Avalanche Center forecasts (see below).
 - 📫 How to reach me -- mikewelsh801@gmail.com
 
