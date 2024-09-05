@@ -7,6 +7,7 @@
 
 <img src="Trail_Color.png" alt="Activity One" width="200"/>
 
+**[Visit my crappy website where I quote Dyjkstra](http://mikewelsh.web.app)**
 
 <!---
 MikeWelsh801/MikeWelsh801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
