@@ -3,11 +3,12 @@
 - 🏂 Co-creator of the [AvyViz](https://github.com/MikeWelsh801/avyviz) avalanche safety app. Avyviz provides offline trail creation for downloaded maps with color coded trail danger based on Utah Avalanche Center forecasts (see below).
 - 📫 How to reach me -- mikewelsh801@gmail.com
 
+  **[Visit my crappy website where I quote Dijkstra](http://mikewelsh.web.app)**
+
 # AvyViz
 
 <img src="Trail_Color.png" alt="Activity One" width="200"/>
 
-**[Visit my crappy website where I quote Dyjkstra](http://mikewelsh.web.app)**
 
 <!---
 MikeWelsh801/MikeWelsh801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
