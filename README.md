@@ -1,5 +1,7 @@
 # Mike Welsh
 ### Just another [Grug Brain](https://grugbrain.dev/)
+I live in Salt Lake City with my wife Cathy and our mini dachshund, Clover — our tiny tyrant. 
+Last week, I vibe coded an automated insulin delivery system and now my legs don't work. Oh well, you live and learn. All hail our AI overlords.
 
 I work at [Trident Sensing](https://www.tridentsensing.com/) on things like this:
 
@@ -13,10 +15,10 @@ Sometimes I write dumb little developer tools, like this:
 
 <img src="https://github.com/MikeWelsh801/log_view/raw/main/screenshots/main_view.png" alt="Log viewer" width="500">
 
-I live in Salt Lake City with my wife Cathy and our mini dachshund, Clover — our tiny tyrant.
+
 
 ## AvyViz
-I Co-created the [AvyViz](https://github.com/MikeWelsh801/avyviz) avalanche safety app with some classmates as part of a capstone project. Avyviz provides offline trail creation for downloaded maps with color coded trail danger based on Utah Avalanche Center forecasts (see below).
+I Co-created the [AvyViz](https://github.com/MikeWelsh801/avyviz) avalanche safety app with some classmates as part of a capstone project. Avyviz provides offline trail creation for downloaded maps with color coded trail danger based on Utah Avalanche Center forecasts. It looks like this:
 
 <img src="Trail_Color.png" alt="Activity One" width="200"/>
 
